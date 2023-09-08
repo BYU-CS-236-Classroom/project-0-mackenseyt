@@ -12,7 +12,7 @@
 # FIXME: This code should return "Hello World" plus whatever the value of "input" is.
 def project0(input: str) -> str:
     # YOUR CODE GOES HERE
-    return "This is my answer for the Lab! " + input
+    return "Hello World " + input
 
 # When testing projects, it can be helpful to be able to test custom inputs. 
 # You can do this by just calling the function project0() with whatever input you want
